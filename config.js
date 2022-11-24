@@ -10,31 +10,31 @@
 //Link Plugins (https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/plugins/info-creator.js)
 
 //Global Owner//
-global.owner = ['6281236167286']  // isi jika perlu
-global.mods = ['6281236167286']   // isi jika perlu
-global.prems = ['6281236167286']  // isi jika perlu
+global.owner = ['6285772046695']  // isi jika perlu
+global.mods = ['6285772046695']   // isi jika perlu
+global.prems = ['6285772046695']  // isi jika perlu
 
 //Nomor Owner & payment//
-global.nameowner = 'Sanzz' // isi nama kalian bebas
+global.nameowner = 'Nopall' // isi nama kalian bebas
 global.numberowner = '6281236167286' // isi ini untuk mengendalikan bot, untuk mengubah tampilan owner ada di plugins 
-global.dana = '6281236167286' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6281236167286' // isi dengan nomor pulsa hp kalian
-global.gopay = '6281236167286'
+global.dana = '6285772046695' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6285772046695' // isi dengan nomor pulsa hp kalian
+global.gopay = '-'
 
 //Nama Bot & Grouplink//
-global.namebot = 'R.SZ-MD'
-global.gc = 'https://chat.whatsapp.com/HHbTWShvfQO4Kep09NGUFr'
-global.web = 'https://youtube.com/@4KSanzz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.instagram = 'https://instagram.com/4k.sanzz'
+global.namebot = 'Nopall-Bot'
+global.gc = 'https://chat.whatsapp.com/Hff46C2IHvYL1Wnbu1HWCc'
+global.web = 'https::/github.com/nopallgithub' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.instagram = 'https://instagram.com/nxpll07_'
 
 //Tampilan wm Bot dan pesan bot//
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R.SZ-MD'
+global.wm = '© Nopall - Bot'
 global.watermark = wm
-global.wm2 = '⫹⫺ R.SZ-MD'
-global.wm3 = '© R.SZ-MD'
-global.wm4 = '© R. SZ-MD'
+global.wm2 = '⫹⫺ Nopall - Bot'
+global.wm3 = '© Nopall - Bot'
+global.wm4 = '© Nopall - Bot'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
